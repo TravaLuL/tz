@@ -1,0 +1,7 @@
+C:\Users\Depress\source\repos\Tryme\Tryme\bin\Debug\Tryme.exe.config
+C:\Users\Depress\source\repos\Tryme\Tryme\bin\Debug\Tryme.exe
+C:\Users\Depress\source\repos\Tryme\Tryme\bin\Debug\Tryme.pdb
+C:\Users\Depress\source\repos\Tryme\Tryme\obj\Debug\Tryme.csprojAssemblyReference.cache
+C:\Users\Depress\source\repos\Tryme\Tryme\obj\Debug\Tryme.csproj.CoreCompileInputs.cache
+C:\Users\Depress\source\repos\Tryme\Tryme\obj\Debug\Tryme.exe
+C:\Users\Depress\source\repos\Tryme\Tryme\obj\Debug\Tryme.pdb
